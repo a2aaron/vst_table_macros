@@ -1,5 +1,5 @@
 [package]
-name = "vst_table_macros"
+name = "vst_utils"
 version = "0.1.0"
 authors = ["Aaron Kofsky <aaronko@umich.edu>"]
 edition = "2018"
